@@ -1,0 +1,45 @@
+{
+	"TargetName" : "SocketIOPrepEditor",
+	"Platform" : "Win64",
+	"Configuration" : "Development",
+	"BuildId" : "c32f452d-b407-4b6b-8a0a-08a679bcccd2",
+	"Version" : 
+	{
+		"MajorVersion" : 4,
+		"MinorVersion" : 11,
+		"PatchVersion" : 2,
+		"Changelist" : 2946394,
+		"IsLicenseeVersion" : 0,
+		"BranchName" : "++UE4+Release-4.11"
+	},
+	"BuildProducts" :
+	[
+		{
+			"Path" : "$(ProjectDir)\\Plugins\\SocketIOClient\\Binaries\\Win64\\UE4Editor-SocketIOClient.dll",
+			"Type" : "DynamicLibrary"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Plugins\\SocketIOClient\\Binaries\\Win64\\UE4Editor-SocketIOClient.pdb",
+			"Type" : "SymbolFile"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Plugins\\SocketIOClient\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\UE4Editor-SocketIOClient.lib",
+			"Type" : "ImportLibrary"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Binaries\\Win64\\UE4Editor-SocketIOPrep.dll",
+			"Type" : "DynamicLibrary"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Binaries\\Win64\\UE4Editor-SocketIOPrep.pdb",
+			"Type" : "SymbolFile"
+		},
+		{
+			"Path" : "$(ProjectDir)\\Intermediate\\Build\\Win64\\UE4Editor\\Development\\UE4Editor-SocketIOPrep.lib",
+			"Type" : "ImportLibrary"
+		}
+	],
+	"RuntimeDependencies" :
+	[
+	]
+}
