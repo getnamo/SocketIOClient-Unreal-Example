@@ -25,8 +25,9 @@ io.on('connection', function(socket){
 
 	//multicast received message from client
 	socket.on('chat message', function(msg){
-	io.emit('chat message', msg);
-		console.log('Emitting chat messages');
+		var combinedMsg = socket.id.substring(0,4) + ': ' + msg;
+		io.emit('chat message', combinedMsg);
+		console.log('multicast: ' + combinedMsg);
 	});
 });
 
