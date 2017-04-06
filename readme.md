@@ -5,6 +5,8 @@ Socket.io C++ Client reference: https://github.com/socketio/socket.io-client-cpp
 
 See https://forums.unrealengine.com/showthread.php?110680-Plugin-Socket-io-Client for details and discussion.
 
-##License
+Feel free to contribute other examples or update this one.
+
+## License
 MIT
 
