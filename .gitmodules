@@ -1,0 +1,3 @@
+[submodule "client-ue4/Plugins/socketio-client-ue4"]
+	path = client-ue4/Plugins/socketio-client-ue4
+	url = https://github.com/getnamo/socketio-client-ue4
