@@ -50,3 +50,8 @@ Temporary Items
 client-ue4/SocketIOPrep.sln
 client-ue4/Intermediate
 client-ue4/Binaries
+client-ue4/Saved
+client-ue4/SocketIOPrep.VC.db
+*.opendb
+.vs
+client-ue4/.vs/SocketIOPrep/v14/.suo
