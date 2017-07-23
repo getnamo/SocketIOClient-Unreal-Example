@@ -11,7 +11,7 @@ Feel free to fork, update, contribute, or add other examples.
 
 ### Short Video
 
-[![Install and Go](https://img.youtube.com/vi/RqjpWukQwxs/0.jpg)](www.youtube.com/watch?v=RqjpWukQwxs)
+[![Install and Go](https://img.youtube.com/vi/RqjpWukQwxs/0.jpg)](https://www.youtube.com/watch?v=RqjpWukQwxs)
 
 ### Download
 1. [Download Latest Release](https://github.com/getnamo/socketio-client-ue4-example/releases)
