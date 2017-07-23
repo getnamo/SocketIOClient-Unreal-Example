@@ -49,3 +49,4 @@ Temporary Items
 # directories from ue4
 client-ue4/SocketIOPrep.sln
 client-ue4/Intermediate
+client-ue4/Binaries
