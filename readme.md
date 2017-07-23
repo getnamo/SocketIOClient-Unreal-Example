@@ -9,6 +9,10 @@ Feel free to fork, update, contribute, or add other examples.
 
 ## Installation and Setup
 
+### Short Video
+
+[![Install and Go](https://img.youtube.com/vi/RqjpWukQwxs/0.jpg)](www.youtube.com/watch?v=RqjpWukQwxs)
+
 ### Download
 1. [Download Latest Release](https://github.com/getnamo/socketio-client-ue4-example/releases)
 2. Unzip into a folder of your choice
@@ -33,4 +37,3 @@ Feel free to fork, update, contribute, or add other examples.
 
 ## License
 MIT
-
