@@ -3,9 +3,9 @@ Reference implementation of socket.io chat client in ue4 using blueprints and um
 
 UE4 Client Plugin repository: https://github.com/getnamo/socketio-client-ue4
 
-Post questions to [SocketIO Unreal Forum Thread](https://forums.unrealengine.com/showthread.php?110680-Plugin-Socket-io-Client) or post to https://github.com/getnamo/socketio-client-ue4-example/issues.
+Post questions to the [SocketIO Unreal Forum Thread](https://forums.unrealengine.com/showthread.php?110680-Plugin-Socket-io-Client) or contribute to or open new issues at https://github.com/getnamo/socketio-client-ue4-example/issues.
 
-Feel free to contribute other examples or update this one.
+Feel free to fork, update, contribute, or add other examples.
 
 ## Installation and Setup
 
