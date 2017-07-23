@@ -1,0 +1,4 @@
+D:\Documents\Projects\git\socketio-client-ue4-example\client-ue4\Source\SocketIOPrep\SocketIOPrep.Build.cs
+D:\Documents\Projects\git\socketio-client-ue4-example\client-ue4\Plugins\SocketIOClient\Source\SocketIOClient\SocketIOClient.Build.cs
+D:\Documents\Projects\git\socketio-client-ue4-example\client-ue4\Source\SocketIOPrep.Target.cs
+D:\Documents\Projects\git\socketio-client-ue4-example\client-ue4\Source\SocketIOPrepEditor.Target.cs
