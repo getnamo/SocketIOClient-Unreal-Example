@@ -45,4 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# directories from ue4
 client-ue4/SocketIOPrep.sln
+client-ue4/Intermediate
