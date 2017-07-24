@@ -28,11 +28,13 @@ Feel free to fork, update, contribute, or add other examples.
 1. Navigate to _sioclient_ folder and Open _sioclient.uproject_
 2. Once loaded, hit ```Play``` the client should auto-connect to your server
 3. watch messages from your web client stream in or press ```m``` to send a basic message to all clients.
+4. press ```enter``` to capture keyboard focus
 
 ### Notes
 * Ending play in ue4 client will auto-disconnect the client.
 * Closing the command window will shutdown your server.
 * Closing your web browser will auto-disconnect your web client
+* Blueprints used should be fairly documented, explore them to find out how it all works
 * See https://github.com/getnamo/socketio-client-ue4 for detailed plugin API
 
 ## License
