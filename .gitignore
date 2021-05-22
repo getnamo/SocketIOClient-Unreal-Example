@@ -56,3 +56,6 @@ sioclient/Saved
 .vs
 server/package-lock.json
 _Releases
+
+sioclient/Config/SteamVRBindings/*
+sioclient/Config/steamvr_ue_editor_app.json
