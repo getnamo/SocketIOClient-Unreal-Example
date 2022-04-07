@@ -1,4 +1,3 @@
-
-[submodule "sioclient/Plugins/socketio-client-ue4"]
-	path = UnrealClient/Plugins/SocketIOClient-Unreal/socketio-client-ue4
-	url = https://github.com/getnamo/socketio-client-ue4
+[submodule "UnrealClient/Plugins/SocketIOClient-Unreal"]
+	path = UnrealClient/Plugins/SocketIOClient-Unreal
+	url = https://github.com/getnamo/SocketIOClient-Unreal.git
