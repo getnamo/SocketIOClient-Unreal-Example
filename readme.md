@@ -1,4 +1,4 @@
-# Socket IO Client UE4 Example Project
+# Socket IO Client Unreal Example Project
 Reference implementation of socket.io chat client in ue4 using blueprints and umg.
 
 UE4 Client Plugin repository: https://github.com/getnamo/socketio-client-ue4
