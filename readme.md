@@ -1,4 +1,4 @@
-# Socket IO Client Unreal Example Project
+# Socket.IO Client Unreal Example Project
 Reference implementation of socket.io chat client in ue5 using blueprints and umg.
 
 Unreal Client Plugin repository: https://github.com/getnamo/socketio-client-unreal
